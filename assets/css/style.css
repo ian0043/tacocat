@@ -122,8 +122,8 @@ h6 {
   text-decoration: none;
 }
 
-.header-scrolled #header .logo h1 a,
-.header-scrolled #header .logo h1 a:hover {
+.header-scrolled#header .logo h1 a,
+.header-scrolled#header .logo h1 a:hover {
   color: #ffb03b;
 }
 
