@@ -122,6 +122,11 @@ h6 {
   text-decoration: none;
 }
 
+.header-scrolled #header .logo h1 a,
+.header-scrolled #header .logo h1 a:hover {
+  color: #ffb03b;
+}
+
 #header .logo img {
   padding: 0;
   margin: 0;
